@@ -1,0 +1,13 @@
+[user]
+	name = Bando Masaya
+	email = union.septem@gmail.com
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+[core]
+	quotepath = off
+[i18n]
+	commitEncoding = utf-8
+	logOutputEncoding = utf-8
